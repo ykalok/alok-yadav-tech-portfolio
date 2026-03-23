@@ -5,7 +5,6 @@ A modern, config-driven developer portfolio built with React 19, Tailwind CSS 4,
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8?logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -169,10 +168,6 @@ This portfolio is designed to be customized entirely through config files. See [
 
 ---
 
-## 📄 License
-
-MIT © 2025 Alok Yadav
-
 ---
 
-Built with ❤️ using React, Tailwind CSS, and Vite
+Built with ❤️ by Alok Yadav using React, Tailwind CSS, and Vite
