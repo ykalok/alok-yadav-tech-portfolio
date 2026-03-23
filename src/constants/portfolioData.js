@@ -20,6 +20,7 @@ export const portfolioData = {
     location: 'Hyderabad, India',
     linkedin: 'https://linkedin.com/in/ykalok123',
     github: 'https://github.com/ykalok',
+    website: 'https://alok-yadav-tech-portfolio.vercel.app',
     resumeUrl: '/resume.pdf',
     bio: 'Software Development Engineer with 5+ years of experience building scalable fintech platforms and high availability banking APIs. Specialized in backend development using Java, Spring Boot, Kafka, Redis, and Microservices. Successfully delivered high-performance solutions for digital payments including RuPay, AEPS, UPI, BBPS, and Recharge services. Strong expertise in API security, distributed systems, and performance optimization in high availability environments.',
     yearsOfExperience: 5,
